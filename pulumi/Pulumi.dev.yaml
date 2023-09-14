@@ -1,6 +1,5 @@
 config:
-  aws:region: us-west-2
+  azure-native:location: WestUS
   pulumi-review-stacks-test:errorDocument: error.html
   pulumi-review-stacks-test:indexDocument: index.html
-  pulumi-review-stacks-test:my-config-value: foo
   pulumi-review-stacks-test:path: ./www
